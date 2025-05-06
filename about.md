@@ -1,9 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
 # About Me
 
-Hi, I'm a student learning how to create static websites using Jekyll and GitHub Pages.
+Hello! I'm a web development student currently learning GitHub Pages and Jekyll.
+
+## Skills
+- HTML, CSS, Markdown
+- Git & GitHub
+- Static Site Generators
+
+## Hobbies
+- Coding
+- Photography
+- Reading tech blogs
