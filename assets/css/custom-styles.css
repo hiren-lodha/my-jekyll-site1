@@ -1,13 +1,33 @@
+/* Change the overall background and text */
 body {
-  background-color: #f4f4f4;
-  color: #222;
-  font-family: Arial, sans-serif;
+  background-color: #1e1e2f;  /* dark purple background */
+  color: #f0f0f0;             /* light text */
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  padding: 20px;
 }
 
-h1 {
-  color: #005f73;
+/* Header styles */
+h1, h2, h3 {
+  color: #ffcb6b;  /* gold-yellow for headers */
 }
 
+/* Link styles */
 a {
-  color: #007acc;
+  color: #82aaff;  /* soft blue for links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c3e88d;  /* mint green on hover */
+  text-decoration: underline;
+}
+
+/* Page container (if using .wrapper or similar) */
+.wrapper {
+  max-width: 900px;
+  margin: auto;
+  background: #2c2c3c;
+  padding: 20px;
+  border-radius: 10px;
 }
